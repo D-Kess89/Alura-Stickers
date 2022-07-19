@@ -1,7 +1,5 @@
 #Alura-Stickers
 
-#ImersãoJava #Alura
-
 #ImersãoJava da #Alura, minha 1ª experiência com Java
 
 Aula 01 da imersão Java da Alura para manipular uma lista e à partir dela criar stickers que possam ser postados no whatsapp como figurinhas. 
